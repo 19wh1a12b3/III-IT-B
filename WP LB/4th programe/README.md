@@ -1,1 +1,15 @@
 
+<!--Create links on the words e.g. ―Wi-Fi and ―LAN to link them to Wikipedia pages.-->
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+</head>
+<body>
+<p>Click<a href="https://www.wikipedia.org/" target="
+_blank"> Wi-Fi </a>to acess home page of wikipedia</p>
+
+<p>Click<a href="https://en.wikipedia.org/wiki/Wikipedia" target="
+_blank"> LAN </a>to know about wikipedia</p>
+</body>
+</html>
